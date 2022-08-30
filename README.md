@@ -4,5 +4,4 @@
 * Source: https://oshwlab.com/mac.miklas/door-lock
 
 ![PCB](/img/pcb_prototype.jpeg)
-
-![Schematic](/img/Schematic_Door Lock_2022-08-30.png)
+![Schematic](/img/schematic.png)
